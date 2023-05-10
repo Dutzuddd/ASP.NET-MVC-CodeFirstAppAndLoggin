@@ -9,12 +9,28 @@
       "PackagePath": "staticwebassets\\css\\bootswatchYetiTheme.css"
     },
     {
+      "Id": "C:\\Users\\vlads\\Desktop\\Vlad\\Scoala\\AN III - Sem 2\\AR\\Aplicatii\\Proiect_1_Sfranciog\\Proiect_1_Sfranciog\\wwwroot\\css\\main.css",
+      "PackagePath": "staticwebassets\\css\\main.css"
+    },
+    {
+      "Id": "C:\\Users\\vlads\\Desktop\\Vlad\\Scoala\\AN III - Sem 2\\AR\\Aplicatii\\Proiect_1_Sfranciog\\Proiect_1_Sfranciog\\wwwroot\\css\\main.min.css",
+      "PackagePath": "staticwebassets\\css\\main.min.css"
+    },
+    {
       "Id": "C:\\Users\\vlads\\Desktop\\Vlad\\Scoala\\AN III - Sem 2\\AR\\Aplicatii\\Proiect_1_Sfranciog\\Proiect_1_Sfranciog\\wwwroot\\css\\site.css",
       "PackagePath": "staticwebassets\\css\\site.css"
     },
     {
       "Id": "C:\\Users\\vlads\\Desktop\\Vlad\\Scoala\\AN III - Sem 2\\AR\\Aplicatii\\Proiect_1_Sfranciog\\Proiect_1_Sfranciog\\wwwroot\\favicon.ico",
       "PackagePath": "staticwebassets\\favicon.ico"
+    },
+    {
+      "Id": "C:\\Users\\vlads\\Desktop\\Vlad\\Scoala\\AN III - Sem 2\\AR\\Aplicatii\\Proiect_1_Sfranciog\\Proiect_1_Sfranciog\\wwwroot\\js\\main.js",
+      "PackagePath": "staticwebassets\\js\\main.js"
+    },
+    {
+      "Id": "C:\\Users\\vlads\\Desktop\\Vlad\\Scoala\\AN III - Sem 2\\AR\\Aplicatii\\Proiect_1_Sfranciog\\Proiect_1_Sfranciog\\wwwroot\\js\\main.min.js",
+      "PackagePath": "staticwebassets\\js\\main.min.js"
     },
     {
       "Id": "C:\\Users\\vlads\\Desktop\\Vlad\\Scoala\\AN III - Sem 2\\AR\\Aplicatii\\Proiect_1_Sfranciog\\Proiect_1_Sfranciog\\wwwroot\\js\\site.js",
